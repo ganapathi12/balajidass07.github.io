@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Balaji D",
+    "occupation": "Computer Science B.Tech student",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "A fresh engineering graduate, seeking an internship in a software development role; special interest includes DBMS ,Reactjs ,Machine Learning and related areas, that can enable the organization to innovate its services and resulting in meaningful contribution towards organizational growth along with personal and professional development.",
+    "contactmessage": "Get to me by filling the form..",
+    "email": "balajidass07@gmail.com",
+    "phone": "9659198181",
+    "address": {
+      "street": "Pollachi",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "zip": "642002"
+    },
+    "website": "https://drive.google.com/file/d/134kmZY0QmoPWxBhEI3HCn_eiPD3H_Ktd/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/134kmZY0QmoPWxBhEI3HCn_eiPD3H_Ktd/view?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Balajidass07",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/balaji-d-6a48941b6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://balajidass07.github.io/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "AMRITA VISHWA VIDYAPEETHAM",
+        "degree": "B.Tech CSE",
+        "graduated": "June 2018 - May 2022",
+        "description": "CGPA: 8.55 (Till sem 5)"
+      },
+      {
+        "school": "Vishwa Sishya Vidyodaya School",
+        "degree": "PCM - CBSE",
+        "graduated": "2016 - 2018",
+        "description": "Board Exams: 427/500 (84.6%)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Firebase",
+        "level": "90%"
+      },
+      {
+        "name": "My SQl",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Digital Course File System",
+        "category": "Portal for teachers to maintain materials",
+        "image": "dcfs.png",
+        "url": "https://github.com/ganapathi12/digital-course-file"
+      },
+      {
+        "title": "Graph representation & traversals",
+        "category": "Visualisation of graph using webpage in Flask.",
+        "image": "flask.png",
+        "url": "https://github.com/balajidass07/Graph-representation-and-traversals"
+      },
+      {
+        "title": "Car Rental System",
+        "category": "Manage a car rental company real time",
+        "image": "crs.png",
+        "url": "https://github.com/balajidass07/Car-Rental-System"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Live in Labs Team",
+        "user": "Member of Live in Labs club of Amrita Vishwa Vidyapeetham, where I worked on improving the quality of life of a rural village in India by creating new technology , also got an insight about various tools like HCD and more in teams of creating valuable product to people"
+      },
+      {
+        "text": "MLH Silly Hacks 2020",
+        "user": "Hackathon, GTA V automated"
+      },
+      {
+        "text": "Hobbies",
+        "user": "Play Cricket, Travelling, reading books"
+      }
+    ]
+  }
+}
