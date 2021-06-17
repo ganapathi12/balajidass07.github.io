@@ -58,16 +58,10 @@
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       }
     ],
     "skills": [
@@ -132,6 +126,10 @@
       {
         "text": "Hobbies",
         "user": "Play Cricket, Travelling, reading books"
+      },
+      {
+        "text": "Contact me at balajidass07@gmail.com",
+        "user": ""
       }
     ]
   }
