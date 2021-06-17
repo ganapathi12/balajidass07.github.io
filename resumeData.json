@@ -45,9 +45,15 @@
       },
       {
         "school": "Vishwa Sishya Vidyodaya School",
-        "degree": "PCM - CBSE",
+        "degree": "HSC (PCM) - CBSE",
         "graduated": "2016 - 2018",
         "description": "Board Exams: 427/500 (84.6%)"
+      },
+      {
+        "school": "Vishwa Sishya Vidyodaya School",
+        "degree": "SSC - CBSE",
+        "graduated": "2016",
+        "description": "Board Exams: 88%"
       }
     ],
     "work": [
